@@ -1,0 +1,6 @@
+
+DROP TABLE IF EXISTS stats;
+DROP TABLE IF EXISTS player_match_teams;
+DROP TABLE IF EXISTS match_teams;
+DROP TABLE IF EXISTS matches;
+DROP TABLE IF EXISTS players;
